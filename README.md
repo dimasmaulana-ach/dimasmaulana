@@ -24,9 +24,9 @@
 </p>
 
 <br/>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dimasmaulana-ach&show_icons=true&locale=en&layout=compact" alt="dimasmaulana-ach" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dimasmaulana-ach&show_icons=true&locale=en" alt="dimasmaulana-ach" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dimasmaulana-ach&" alt="dimasmaulana-ach" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dimasmaulana-ach&show_icons=true&locale=en&layout=compact" alt="dimasmaulana-ach" /></p>
 
 
 <br/>
@@ -46,23 +46,22 @@
 <br/>
 <h3 align="left">CSS Framework:</h3>
 <a href="https://bulma.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg" alt="bul
-a" width="40" he
-ight="40"/> </a> 
+a" width="40" height="40"/> </a> 
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
 <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> 
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
 
 <br/>
+<h3 align="left">Mobile :</h3>
+<a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> 
+<a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> 
+
+<br/>
 <h3 align="left">Backend :</h3>
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
 <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
 <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> 
-
-<br/>
-<h3 align="left">Mobile :</h3>
-<a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> 
-<a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> 
 
 <br/>
 <h3 align="left">Database :</h3>
