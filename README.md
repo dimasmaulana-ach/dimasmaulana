@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dimas Maulana Ahmad</h1>
-<h3 align="center">I am a Full Stack Developer</h3>
+<h3 align="center">I am a Junior Developer</h3>
 
 <p align="center"> 
  <img src="https://img.shields.io/badge/OS-Windows-blue?&logo=windows" />
@@ -29,7 +29,7 @@
 <br/>
 
 <h3 align="left">Languages :</h3>
-<a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> 
+<a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/5430905?s=200&v=4" alt="rust" width="40" height="40"/> </a> 
 <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
@@ -42,9 +42,9 @@
  <a href="https://angularjs.org/" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> 
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
 <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> 
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a>
+<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/f21f1fa29dfe5e1d0772b0efe2f43eca2f6dc14f2fede8d9cbef4a3a8210c91d/68747470733a2f2f6173736574732e76657263656c2e636f6d2f696d6167652f75706c6f61642f76313636323133303535392f6e6578746a732f49636f6e5f6c696768745f6261636b67726f756e642e706e67" alt="nextjs" width="40" height="40"/> </a>
 <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> 
-<a href="https://alpinejs.dev/" target="_blank" rel="noreferrer"> <img src="https://alpinejs.dev/alpine_long.svg" alt="laravel" width="40" height="40"/> </a> 
+<a href="https://alpinejs.dev/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/59030169?s=200&v=4" alt="laravel" width="40" height="40"/> </a> 
 
 <br/>
 <h3 align="left">CSS Framework:</h3>
@@ -62,8 +62,7 @@ a" width="40" height="40"/> </a>
 
 <br/>
 <h3 align="left">Backend :</h3>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
+<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs" width="40" height="40"/> </a> 
 <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> 
 
 <br/>
