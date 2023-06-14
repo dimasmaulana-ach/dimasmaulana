@@ -1,32 +1,29 @@
 <h1 align="center">Hi 👋, I'm Dimas Maulana Ahmad</h1>
 <h3 align="center">I am a Full Stack Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dimasmaulana-ach&label=Profile%20views&color=0e75b6&style=flat" alt="dimasmaulana-ach" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dimasmaulana-ach" alt="dimasmaulana-ach" /></a> </p>
-
-- 🌱 I’m currently learning **Nest**
-
-- 💬 Ask me about **React**
-
-- 📫 How to reach me **oxzysk.dimas@gmail.com**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-
-<a href="https://dev.to/dimasmaulana" target="blank"><img align="center" src="https://dev-to-uploads.s3.amazonaws.com/uploads/logos/resized_logo_UQww2soKuUsjaOGNB38o.png" alt="dimasmaulana" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/dimas-maulana-ahmad/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dimas-maulana-ahmad/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://instagram.com/__oxzy__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/__oxzy__" height="30" width="40" /></a>
+<p align="center"> 
+ <img src="https://img.shields.io/badge/OS-Windows-blue?&logo=windows" />
+ <img src="https://img.shields.io/badge/OS-Linux-blue?&logo=linux" />
+ <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
+ <img src="https://komarev.com/ghpvc/?username=dimasmaulana-ach&label=Profile%20views&color=0e75b6&style=flat" alt="dimasmaulana-ach" /> 
 </p>
 
+ - 🌱 I’m currently learning **Nest**
+ 
+ - 💬 Ask me about **React**
+ 
+ - 📫 How to reach me **oxzysk.dimas@gmail.com**
+
 <br/>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dimasmaulana-ach&show_icons=true&locale=en" alt="dimasmaulana-ach" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dimasmaulana-ach&" alt="dimasmaulana-ach" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dimasmaulana-ach&show_icons=true&locale=en&layout=compact" alt="dimasmaulana-ach" /></p>
+<p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=dimasmaulana-ach&show_icons=true&locale=en&theme=github_dark" alt="dimasmaulana-ach" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dimasmaulana-ach&locale=en&theme=github_dark" alt="dimasmaulana-ach" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dimasmaulana-ach&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="dimasmaulana-ach" />
+</p>
+
+<p align='center'>
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dimasmaulana-ach&theme=onedark&no-bg=true&title=MultiLanguage,Commits,Repositories,PullRequest,Reviews" alt="dimasmaulana-ach" /></a> 
+</p>
 
 
 <br/>
@@ -91,3 +88,10 @@ a" width="40" height="40"/> </a>
 <br/>
 <h3 align="left">Testing :</h3>
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/dimasmaulana" target="blank"><img align="center" src="https://dev-to-uploads.s3.amazonaws.com/uploads/logos/resized_logo_UQww2soKuUsjaOGNB38o.png" alt="dimasmaulana" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/dimas-maulana-ahmad/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dimas-maulana-ahmad/" height="30" width="40" /></a>
+<a href="https://instagram.com/https://instagram.com/__oxzy__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/__oxzy__" height="30" width="40" /></a>
+</p>
