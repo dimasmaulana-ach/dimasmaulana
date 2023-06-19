@@ -97,5 +97,6 @@ a" width="40" height="40"/> </a>
 <a href="https://dev.to/dimasmaulana" target="blank"><img align="center" src="https://dev-to-uploads.s3.amazonaws.com/uploads/logos/resized_logo_UQww2soKuUsjaOGNB38o.png" alt="dimasmaulana" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/dimas-maulana-ahmad/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dimas-maulana-ahmad/" height="30" width="40" /></a>
 <a href="https://instagram.com/__oxzy__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/__oxzy__" height="30" width="40" /></a>
- <a href="https://gitlab.com/dimasmaulanaahmad" target="blank"><img align="center" src="https://about.gitlab.com/images/press/press-kit-icon.svg" alt="https://gitlab.com/dimasmaulanaahmad" height="30" width="40" /></a>
+<a href="https://gitlab.com/dimasmaulanaahmad" target="blank"><img align="center" src="https://about.gitlab.com/images/press/press-kit-icon.svg" alt="https://gitlab.com/dimasmaulanaahmad" height="30" width="40" /></a>
+<a href="https://bitbucket.org/dimasmaulana-ach/workspace/overview" target="blank"><img align="center" src="https://github.com/dimasmaulana-ach/dimasmaulana-ach/blob/main/bitbucket.png" alt="https://gitlab.com/dimasmaulanaahmad" height="30" width="40" /></a>
 </p>
