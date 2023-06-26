@@ -25,12 +25,12 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dimasmaulana-ach&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="dimasmaulana-ach" />
 </p>
 
-<p align='center'>
+<!-- <p align='center'>
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dimasmaulana-ach&theme=onedark&no-bg=true&title=MultiLanguage,Commits,Repositories,PullRequest,Reviews" alt="dimasmaulana-ach" /></a> 
-</p>
+</p> -->
 
 
-<br/>
+<!-- <br/>
 
 <h3 align="left">Languages :</h3>
 <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://www.rust-lang.org/logos/rust-logo-64x64.png" alt="rust" width="40" height="40"/> </a> 
@@ -90,7 +90,7 @@ a" width="40" height="40"/> </a>
 
 <br/>
 <h3 align="left">Testing :</h3>
-<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
+<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>  -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
