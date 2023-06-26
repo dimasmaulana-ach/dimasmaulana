@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Dimas Maulana Ahmad</h1>
-<h3 align="center">I am a Junior Developer</h3>
+<h1 align="left">Hi 👋, I'm Dimas Maulana Ahmad</h1>
+<h3 align="left">I am a Junior Developer</h3>
 
-<p align="center"> 
+<p align="left"> 
  <!--<img src="https://img.shields.io/badge/OS-Windows-blue?&logo=windows&logoColor=blue" /> -->
  <!-- <img src="https://img.shields.io/badge/OS-Linux-yellow?&logo=linux" /> -->
  <img src="https://img.shields.io/badge/OS-Manjaro-green?&logo=manjaro" />
