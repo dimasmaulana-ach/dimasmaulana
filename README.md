@@ -13,9 +13,7 @@
 <!--  <img src="https://komarev.com/ghpvc/?username=dimasmaulana-ach&label=Profile%20views&color=0e75b6&style=flat" alt="dimasmaulana-ach" />  -->
 </p>
 
- - 🌱 I’m currently learning **Nest**
- 
- - 💬 Ask me about **React**
+ - 🌱 I’m currently learning **All**
  
  - 📫 How to reach me **oxzysk.dimas@gmail.com**
 
