@@ -2,18 +2,12 @@
 <h3 align="left">I am a Junior Developer</h3>
 
 <p align="left"> 
- <!--<img src="https://img.shields.io/badge/OS-Windows-blue?&logo=windows&logoColor=blue" /> -->
- <!-- <img src="https://img.shields.io/badge/OS-Linux-yellow?&logo=linux" /> -->
-<!--  <img src="https://img.shields.io/badge/OS-Manjaro-green?&logo=manjaro" /> -->
  <img src="https://img.shields.io/badge/OS-Arch-blue?&logo=arch-linux" />
-<!--  <img src="https://img.shields.io/badge/OS-Ubuntu-red?&logo=ubuntu" />
- <img src="https://img.shields.io/badge/OS-Debian-red?&logo=debian&logoColor=red" /> -->
  <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
- <!-- <img src="https://img.shields.io/badge/Emulator-Android%20Studio-green?&logo=android%20studio&logoColor=green" /> -->
-<!--  <img src="https://komarev.com/ghpvc/?username=dimasmaulana-ach&label=Profile%20views&color=0e75b6&style=flat" alt="dimasmaulana-ach" />  -->
+ <img src="https://img.shields.io/badge/Text%20Editor-Intellij%20Idea-red?&logo=intellij%20idea&logoColor=red" />
 </p>
 
- - 🌱 I’m currently learning **All**
+ - 🌱 I’m currently learning **Python**
  
  - 📫 How to reach me **oxzysk.dimas@gmail.com**
 
