@@ -6,6 +6,8 @@
  <img src="https://img.shields.io/badge/OS-Mac%20Os-white?&logo=apple" />
  <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
  <img src="https://img.shields.io/badge/Text%20Editor-Intellij%20Idea-red?&logo=intellij%20idea&logoColor=red" />
+ <img src="https://img.shields.io/badge/Text%20Editor-Xcode-blue?&logo=Xcode&logoColor=blue" />
+ <img src="https://img.shields.io/badge/Text%20Editor-Android%20Studio-green?&logo=Android-Studio&logoColor=green" />
 </p>
 
  - 🌱 I’m currently learning **Python**
