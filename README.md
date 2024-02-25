@@ -2,17 +2,18 @@
 <h3 align="left">I am a Junior Developer</h3>
 
 <p align="left"> 
- <img src="https://img.shields.io/badge/OS-Arch-blue?&logo=arch-linux" />
- <img src="https://img.shields.io/badge/OS-Mac%20Os-white?&logo=apple" />
+<!--  <img src="https://img.shields.io/badge/OS-Arch-blue?&logo=arch-linux" /> -->
+<!--  <img src="https://img.shields.io/badge/OS-Mac%20Os-white?&logo=apple" /> -->
 </p> 
 <p align="left"> 
  <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
  <img src="https://img.shields.io/badge/Text%20Editor-Intellij%20Idea-red?&logo=intellij%20idea&logoColor=red" />
- <img src="https://img.shields.io/badge/Text%20Editor-Xcode-blue?&logo=Xcode&logoColor=blue" />
- <img src="https://img.shields.io/badge/Text%20Editor-Android%20Studio-green?&logo=Android-Studio&logoColor=green" />
+ <img src="https://img.shields.io/badge/Text%20Editor-Rider-red?&logo=rider&logoColor=red" />
+<!--  <img src="https://img.shields.io/badge/Text%20Editor-Xcode-blue?&logo=Xcode&logoColor=blue" /> -->
+<!--  <img src="https://img.shields.io/badge/Text%20Editor-Android%20Studio-green?&logo=Android-Studio&logoColor=green" /> -->
 </p>
 
- - 🌱 I’m currently learning **Python**
+ - 🌱 I’m currently learning **.Net**
  
  - 📫 How to reach me **oxzysk.dimas@gmail.com**
 
@@ -27,11 +28,12 @@
 <h3 align="left">Language:</h3>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/> </a> 
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="20" height="20"/> </a>
-<a href="https://dart.dev/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlin/kotlin-icon.svg" alt="ruby" width="20" height="20"/> </a>
-<a href="https://dart.dev/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-icon.svg" alt="ruby" width="20" height="20"/> </a>
-<a href="https://dart.dev/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="ruby" width="20" height="20"/> </a>
+<a href="https://dart.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="ruby" width="20" height="20"/> </a>
+<a href="https://dart.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="ruby" width="20" height="20"/> </a>
+<a href="https://dart.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="20" height="20"/> </a>
+<a href="https://dart.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="ruby" width="20" height="20"/> </a>
 <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="20" height="20"/> </a> 
-<a href="https://dart.dev/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="20" height="20"/> </a>
+<a href="https://dart.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="20" height="20"/> </a>
 <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://www.rust-lang.org/logos/rust-logo-64x64.png" alt="rust" width="20" height="20"/> </a> 
 
 <h3 align="left">Connect with me:</h3>
