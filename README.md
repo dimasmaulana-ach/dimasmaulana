@@ -40,7 +40,7 @@
 <a href="https://dart.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="ruby" width="20" height="20"/> </a>
 <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://www.rust-lang.org/logos/rust-logo-64x64.png" alt="rust" width="20" height="20"/> </a> 
 
-<h3 align="left">Language:</h3>
+<h3 align="left">Framework:</h3>
 <p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="php" width="20" height="20"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" alt="php" width="20" height="20"/>
