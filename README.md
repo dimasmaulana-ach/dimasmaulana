@@ -15,7 +15,6 @@
 
  - 🌱 I’m currently learning **.Net**
  
- - 📫 How to reach me **oxzysk.dimas@gmail.com**
 
 <br/>
 <p>
